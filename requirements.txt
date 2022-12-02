@@ -4,3 +4,4 @@ body-parser
 cors
 helmet
 morgan
+cors-anywhere
