@@ -1,0 +1,6 @@
+node-fetch
+express
+body-parser
+cors
+helmet
+morgan
